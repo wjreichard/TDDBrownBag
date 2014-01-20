@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDBrownBag", "TDDBrownBag\TDDBrownBag.csproj", "{88CBA245-E2EA-4E0F-B89D-D65E0BD39ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDBrownBagTest", "TDDBrownBagTest\TDDBrownBagTest.csproj", "{16CC2ABC-0D58-4BB5-88ED-184C6C8AB274}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CBA245-E2EA-4E0F-B89D-D65E0BD39ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CBA245-E2EA-4E0F-B89D-D65E0BD39ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CBA245-E2EA-4E0F-B89D-D65E0BD39ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CBA245-E2EA-4E0F-B89D-D65E0BD39ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CC2ABC-0D58-4BB5-88ED-184C6C8AB274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CC2ABC-0D58-4BB5-88ED-184C6C8AB274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CC2ABC-0D58-4BB5-88ED-184C6C8AB274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CC2ABC-0D58-4BB5-88ED-184C6C8AB274}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
